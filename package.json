@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexDyakov/sf_task_b927/issues"
   },
-  "homepage": "https://github.com/AlexDyakov/sf_task_b927#readme"
+  "homepage": "https://github.com/AlexDyakov/sf_task_b927#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
 }
