@@ -1,0 +1,19 @@
+{
+  "name": "sf_task_b927",
+  "version": "1.0.0",
+  "description": "## Задание B9.2.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDyakov/sf_task_b927.git"
+  },
+  "author": "Alex Dyakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDyakov/sf_task_b927/issues"
+  },
+  "homepage": "https://github.com/AlexDyakov/sf_task_b927#readme"
+}
